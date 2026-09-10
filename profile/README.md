@@ -22,15 +22,17 @@ There are currently 5 main teams in this organization:\
 
 ## Projects
 After the 2025-2026 season the team has changed their structure.\
-Before we were separated into the following teams:\
+Before we were separated into the following teams:
 - Electrical
 - Mechanical
-- Software\
-This year we are following a matrix organization structure. This new structure introduces many new roles and distributes the workload across different teams. The members are managed by discipline managers:\
+- Software
+
+This year we are following a matrix organization structure. This new structure introduces many new roles and distributes the workload across different teams. The members are managed by discipline managers:
 - Electrical Manager
 - Mechanical Manager
 - Software Manager
-The project is then realized into projects:\
+
+The project is then realized into projects:
 - Autonomy Project
 - Drone Project
 - Arm Project
